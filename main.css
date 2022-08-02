@@ -1,0 +1,45 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    background-image:url(./bg.png);
+    background-size:cover;
+    background-position:center;
+    margin:0;
+    padding:32px;
+    min-height:100vh;
+
+}
+p{
+    color:purple;
+    font-size:32px;
+    width:700px;
+}
+h1{
+    background-color:white;
+    display:inline-block;
+    font-size:5rem;
+    font-weight:200;
+    padding:1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    position:fixed;
+    top:5rem;
+    right:5rem;
+    font-size:1rem;
+    text-decoration:none;
+    color:brown;
+}
+h2{
+    background-color:grey;
+    position:fixed;
+    bottom:2rem;
+    left:22rem;
+}
+
+    
+    
+
+
+}
